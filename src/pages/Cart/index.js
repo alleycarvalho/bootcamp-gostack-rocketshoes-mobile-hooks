@@ -1,10 +1,13 @@
 import React from 'react';
-import { View } from 'react-native';
 
-// import { Container } from './styles';
+import { Container, Text } from './styles';
 
 export default function Cart() {
-  return <View />;
+  return (
+    <Container>
+      <Text>Página Carrinho</Text>
+    </Container>
+  );
 }
 
 Cart.navigationOptions = {
