@@ -4,12 +4,15 @@ import { StatusBar } from 'react-native';
 import './config/ReactotronConfig';
 
 import Routes from './routes';
+import NavigationService from './services/navigation';
 
 export default function App() {
   return (
     <>
       <StatusBar barStyle="light-content" />
-      <Routes />
+      <Routes
+        ref={navigatorRef => NavigationService.setNavigator(navigatorRef)}
+      />
     </>
   );
 }
