@@ -3,26 +3,26 @@
 </h1>
 
 <h3 align="center">
-  Desafio 7: Arquitetura Flux no React Native
+  Desafio 8: Utilizando React Hooks
 </h3>
 
-<blockquote align="center">“Não espere resultados brilhantes se suas metas não forem claras!”</blockquote>
+<blockquote align="center">“Não existe linha de chegada, a vitória está em se manter correndo!”</blockquote>
 
 <p align="center">
-  <img src="https://img.shields.io/github/languages/count/alleycarvalho/bootcamp-gostack-rocketshoes-mobile?color=%2304D361" alt="GitHub language count">
+  <img src="https://img.shields.io/github/languages/count/alleycarvalho/bootcamp-gostack-rocketshoes-mobile-hooks?color=%2304D361" alt="GitHub language count">
 
   <img src="https://img.shields.io/badge/license-MIT-%2304D361" alt="License">
 
-  <a href="https://github.com/alleycarvalho/bootcamp-gostack-rocketshoes-mobile/stargazers">
-    <img src="https://img.shields.io/github/stars/alleycarvalho/bootcamp-gostack-rocketshoes-mobile?style=social" alt="Stargazers">
+  <a href="https://github.com/alleycarvalho/bootcamp-gostack-rocketshoes-mobile-hooks/stargazers">
+    <img src="https://img.shields.io/github/stars/alleycarvalho/bootcamp-gostack-rocketshoes-mobile-hooks?style=social" alt="Stargazers">
   </a>
 </p>
 
 ## :rocket: Sobre o projeto
 
-- Um aplicativo mobile utilizando [React Native](https://facebook.github.io/react-native/) que simula um carrinho de compras de um e-commerce.
+- Um aplicativo mobile que simula um carrinho de compras de um e-commerce (Utilizando React Hooks).
 
-## :mortar_board: Bootcamp - Desafio 7
+## :mortar_board: Bootcamp - Desafio 8
 
 ### Ferramentas e conceitos utilizados
 
@@ -33,6 +33,7 @@
 - [Json Server](https://github.com/typicode/json-server) e utilização do [Axios](https://github.com/axios/axios)
 - [Polished](https://github.com/styled-components/polished)
 - [Redux](https://redux.js.org/), [Redux Saga](https://github.com/redux-saga/redux-saga), [Immer](https://github.com/immerjs/immer) e utilização com [Reactotron](https://github.com/infinitered/reactotron)
+- [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
 ### Funcionalidades
 
@@ -46,15 +47,15 @@
 
 ### Listagem de produtos
 
-![Desafio 07 - Produtos](.github/rocketshoes-products.jpeg)
+![Desafio 08 - Produtos](.github/rocketshoes-products.jpeg)
 
 ### Página do Carrinho
 
-![Desafio 07 - Carrinho](.github/rocketshoes-cart.jpeg)
+![Desafio 08 - Carrinho](.github/rocketshoes-cart.jpeg)
 
 ### Alerta do controle de estoque
 
-![Desafio 07 - Alerta de Estoque](.github/rocketshoes-alert.jpeg)
+![Desafio 08 - Alerta de Estoque](.github/rocketshoes-alert.jpeg)
 
 ## :memo: Licença
 
